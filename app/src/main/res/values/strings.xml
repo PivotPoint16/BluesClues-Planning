@@ -3,4 +3,16 @@
 
     <string name="dummy_button">Dummy Button</string>
     <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string-array name="furniture_list">
+        <item>Square</item>
+        <item>Cirlce</item>
+        <item>Triangle</item>
+    </string-array>
+    
+    <integer-array name="furniture_picture_list">
+        <item>@drawable/square_furniture</item>
+        <item>@drawable/circle_furniture</item>
+        <item>@drawable/triangle_furniture</item>
+    </integer-array>
+
 </resources>
